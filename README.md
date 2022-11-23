@@ -1,5 +1,4 @@
 # Sobre mim.
-- 👍 Meu Email de contato é eduardo.costa.miguel@escola.pr.gov.br
 - 👋 Olá eu sou @Jaca7x
 - 👀 Eu sou interessado em programar jogos e sites
 - 🌱 Eu estou aprendendo programar recentemente a linguagem JavaScript e Scratch
