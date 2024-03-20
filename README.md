@@ -1,7 +1,7 @@
 # Sobre mim.
 - 👋 Olá eu sou @Jaca7x
 - 👀 Eu sou interessado em programar jogos e sites
-- 🌱 Eu estou aprendendo programar recentemente a linguagem JavaScript e Scratch
+- 🌱 Eu estou aprendendo programar recentemente a linguagem JavaScript e HTML
 
 <!---
 
