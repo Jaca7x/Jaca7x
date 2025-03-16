@@ -1,3 +1,5 @@
 Olá, me chamo Costa.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Jaca1x=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: inline_block"><br>
+  <img align="center" alt="Jaca-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+</div>
