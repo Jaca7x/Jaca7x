@@ -8,7 +8,7 @@ Tecnologias
 </div>
 
 ## Cursando 
-Análise e Desenvolvimento de Sistemas - UniCesumar📕
+Análise e Desenvolvimento de Sistemas - UniCesumar📕.
 ## Sobre 
-Estou começando a estudar **Backend**, espero evoluir muito ainda, atualmente estou apreendendo a linguagem **C**. 
+Estou começando a estudar **Backend**, espero evoluir muito ainda, atualmente estou apreendendo a linguagem **C**. Conforme minha evolução irei postar diversos projetos relacionados aos meus estudos.
 
