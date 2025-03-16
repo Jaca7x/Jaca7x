@@ -1,2 +1,2 @@
-https://github-readme-stats.vercel.app/api/top-langs/?Jaca7x={Jaca7x}&theme=blue-green
+https://github-readme-stats.vercel.app/api/top-langs/?Jaca1x={Jaca1x}&theme=blue-green
 Olá, sou o Jaca7x 
