@@ -1,2 +1,3 @@
-https://github-readme-stats.vercel.app/api/top-langs/?Jaca1x={Jaca1x}&theme=blue-green
-Olá, sou o Jaca7x 
+Olá, me chamo Costa.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Jaca7x=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
