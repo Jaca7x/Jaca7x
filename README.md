@@ -1,4 +1,4 @@
-# Olá, me chamo Costa é tenho 17 anos.
+# Olá, me chamo Costa e tenho 17 anos.
 
 Tecnologias
 <div style="display: inline_block"><br>
