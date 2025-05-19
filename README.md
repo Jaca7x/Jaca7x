@@ -2,9 +2,9 @@
 
 ## Tecnologias
 <div style="display: inline_block"><br>
-  <img align="center" alt="Jaca-C" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img align="center" alt="Jaca-html" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
-  <img align="center" alt="Jaca-css" height="=60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 </div><br/>
 
 ## Bibliotecas
