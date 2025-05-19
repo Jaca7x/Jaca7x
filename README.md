@@ -1,4 +1,4 @@
-# Olá, me chamo Costa e tenho 17 anos.
+# Olá, me chamo Costa e tenho 17 anos, sou apaixonado em jogos e pretendo me tornar game dev algum dia.
 
 ## Tecnologias
 <div style="display: inline_block"><br>
@@ -14,6 +14,3 @@
 
 ## Cursando 
 Análise e Desenvolvimento de Sistemas - UniCesumar📕.
-## Sobre 
-Estou começando a estudar **Backend**, espero evoluir muito, atualmente estou apreendendo a linguagem **C**. Conforme minha evolução irei postar diversos projetos relacionados aos meus estudos.
-
