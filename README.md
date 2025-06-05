@@ -1,6 +1,6 @@
 <h1 style="font-size: 32px;">Olá, me chamo Costa 👋</h1>
 <p style="font-size: 20px;">
-### Tenho 17 anos e sou apaixonado por desenvolver ideias e criar jogos. 
+Tenho 17 anos e sou apaixonado por desenvolver ideias e criar jogos. 
 Estou sempre em busca de oferecer uma experiência com boa jogabilidade, 
 cuidando dos pequenos detalhes que fazem a diferença. 
 Meu objetivo é me tornar um desenvolvedor de games profissional 
