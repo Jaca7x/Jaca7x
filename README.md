@@ -1,4 +1,4 @@
-#Olá, me chamo Costa, tenho 17 anos e sou apaixonado por desenvolver ideias e criar jogos. Estou sempre em busca de oferecer uma experiência com boa jogabilidade, cuidando dos pequenos detalhes que fazem a diferença. Meu objetivo é me tornar um desenvolvedor de games profissional e transformar minha paixão em carreira.
+# Olá, me chamo Costa, tenho 17 anos e sou apaixonado por desenvolver ideias e criar jogos. Estou sempre em busca de oferecer uma experiência com boa jogabilidade, cuidando dos pequenos detalhes que fazem a diferença. Meu objetivo é me tornar um desenvolvedor de games profissional e transformar minha paixão em carreira.
 
 ## Tecnologias
 <div style="display: inline_block"><br>
