@@ -1,10 +1,9 @@
 <h1 style="font-size: 32px;">Hi, my name is Costa 👋</h1>
 <p style="font-size: 20px;">
-I'm 17 years old and passionate about developing ideas and creating games.  
+Passionate about developing ideas and creating games.  
 I'm always looking to offer a great gameplay experience,  
 paying attention to the small details that make a big difference.  
-My goal is to become a professional game developer  
-and turn my passion into a career. :)
+
 </p>
 
 <h2 style="font-size: 28px;">Technologies</h2>
