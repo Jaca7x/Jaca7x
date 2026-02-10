@@ -1,4 +1,4 @@
-<h1 style="font-size: 32px;">Hi, my name is Costa 👋</h1>
+<h1 style="font-size: 32px;">Hi, my name is Jaca 👋</h1>
 <p style="font-size: 20px;">
 Passionate about developing ideas and creating games.  
 I'm always looking to offer a great gameplay experience,  
