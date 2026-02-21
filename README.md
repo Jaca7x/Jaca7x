@@ -16,7 +16,7 @@ paying attention to the small details that make a big difference.
 <h2 style="font-size: 28px;">Libraries</h2>
 <div style="display: inline_block"><br>
   <img align="center" height="80" src="images/logo_raylib.png">
-  <img align="center" height="80" src="images/logo_raymath.png">
+  <img align="center" height="75" src="images/logo_raymath.png">
 </div><br/>
 
 <h2 style="font-size: 28px;">Tools</h2>
