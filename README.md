@@ -23,7 +23,7 @@ prestando atenção aos pequenos detalhes que fazem uma grande diferença.
   <img align="center" height="60" src="images/tiled_logo.png">
 </div><br/>
 
-<h2 style="font-size: 28px;">Atualmente Estudando</h2>
+<h2 style="font-size: 28px;">Atualmente estou aprendendo</h2>
 <p style="font-size: 20px;">
-Análise e Desenvolvimento de Sistemas - UniCesumar 📕
+React, Vite e React Router DOM, typeScript
 </p>
