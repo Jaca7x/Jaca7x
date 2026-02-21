@@ -1,30 +1,29 @@
-<h1 style="font-size: 32px;">Hi, my name is Jaca 👋</h1>
+<h1 style="font-size: 32px;">Oi, meu nome é Jaca 👋</h1>
 <p style="font-size: 20px;">
-Passionate about developing ideas and creating games.  
-I'm always looking to offer a great gameplay experience,  
-paying attention to the small details that make a big difference.  
-
+Apaixonado por desenvolver ideias e criar jogos.  
+Estou sempre buscando oferecer uma ótima experiência de gameplay,  
+prestando atenção aos pequenos detalhes que fazem uma grande diferença.  
 </p>
 
-<h2 style="font-size: 28px;">Technologies</h2>
+<h2 style="font-size: 28px;">Tecnologias</h2>
 <div style="display: inline_block"><br>
   <img align="center" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img align="center" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 </div><br/>
 
-<h2 style="font-size: 28px;">Libraries</h2>
+<h2 style="font-size: 28px;">Bibliotecas</h2>
 <div style="display: inline_block"><br>
   <img align="center" height="80" src="images/logo_raylib.png">
   <img align="center" height="75" src="images/logo_raymath.png">
 </div><br/>
 
-<h2 style="font-size: 28px;">Tools</h2>
+<h2 style="font-size: 28px;">Ferramentas</h2>
 <div style="display: inline_block"><br>
   <img align="center" height="60" src="images/tiled_logo.png">
 </div><br/>
 
-<h2 style="font-size: 28px;">Currently Studying</h2>
+<h2 style="font-size: 28px;">Atualmente Estudando</h2>
 <p style="font-size: 20px;">
-Systems Analysis and Development - UniCesumar 📕
+Análise e Desenvolvimento de Sistemas - UniCesumar 📕
 </p>
