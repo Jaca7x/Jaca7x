@@ -15,8 +15,13 @@ paying attention to the small details that make a big difference.
 
 <h2 style="font-size: 28px;">Libraries</h2>
 <div style="display: inline_block"><br>
-  <img align="center" height="60" src="https://github.com/raysan5/raylib/blob/master/logo/raylib.ico">
-  <img align="center" height="60" src="https://github.com/raysan5/raylib/blob/master/logo/raymath.ico">
+  <img align="center" height="60" src="images/raylib_logo.png">
+  <img align="center" height="60" src="images/raymath_logo.png">
+</div><br/>
+
+<h2 style="font-size: 28px;">Tools</h2>
+<div style="display: inline_block"><br>
+  <img align="center" height="60" src="images/tiled_logo.png">
 </div><br/>
 
 <h2 style="font-size: 28px;">Currently Studying</h2>
