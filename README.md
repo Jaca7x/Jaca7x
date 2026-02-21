@@ -1,7 +1,7 @@
 <h1 style="font-size: 32px;">Olá, meu nome é Jaca 👋</h1>
 <p style="font-size: 20px;">
-Apaixonado por desenvolver ideias e criar jogos.  
-Estou sempre buscando oferecer uma ótima experiência de gameplay,  
+Sou apaixonado por desenvolver ideias e criar jogos.  
+Estou sempre buscando oferecer uma ótima experiência em meus projetos,  
 prestando atenção aos pequenos detalhes que fazem uma grande diferença.  
 </p>
 
