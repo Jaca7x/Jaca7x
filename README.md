@@ -23,10 +23,11 @@ prestando atenção aos pequenos detalhes que fazem uma grande diferença.
   <img align="center" height="60" src="images/tiled_logo.png">
 </div><br/>
 
-<h2 style="font-size: 28px;">Atualmente estou aprendendo</h2>
-<p style="font-size: 20px;">
-React, 
-Vite,
-React Router DOM, 
-typeScript.
-</p>
+<h2 style="font-size: 28px;">Atualmente estou procurando estudar ferrentas e tecnologias para desenvolvimento web para meu próximo projeto :)</h2>
+<ul style="font-size: 20px;">
+  <li>Figma Design</li>
+  <li>React</li>
+  <li>Vite</li>
+  <li>React Router DOM</li>
+  <li>TypeScript</li>
+</ul>
