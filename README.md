@@ -25,5 +25,8 @@ prestando atenção aos pequenos detalhes que fazem uma grande diferença.
 
 <h2 style="font-size: 28px;">Atualmente estou aprendendo</h2>
 <p style="font-size: 20px;">
-React, Vite e React Router DOM, typeScript
+React, 
+Vite,
+React Router DOM, 
+typeScript.
 </p>
