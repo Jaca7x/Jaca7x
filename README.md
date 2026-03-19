@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=150&lines=+++++++++++++JACA;GAME+DEVELOPER+|+FULL+STACK+STUDENT" alt="Banner Jaca" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=150&lines=+++++++++++++JACA;GAME+DEVELOPER+|+FULL+STACK+STUDENT" alt="Banner Jaca" />
 </div>
 
 ## ðŸ‘¤ Sobre mim
@@ -12,14 +12,13 @@ Sou apaixonado por desenvolver ideias e criar jogos. Busco sempre entregar uma Ã
 <p align="left">
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=A8B9CC" />
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=1572B6" />
 </p>
 
 ## ðŸŽ® Game Dev & Libraries
 <p align="left">
   <img src="https://img.shields.io/badge/Raylib-000000?style=for-the-badge&logo=raylib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raymath-000000?style=for-the-badge&logo=raylib&logoColor=FFCC00" />
+  <img src="https://img.shields.io/badge/Raymath-000000?style=for-the-badge&logo=raylib&logoColor=FB84BC" />
   <img src="https://img.shields.io/badge/Tiled-000000?style=for-the-badge&logo=tiled&logoColor=white" />
 </p>
 
@@ -29,6 +28,7 @@ Sou apaixonado por desenvolver ideias e criar jogos. Busco sempre entregar uma Ã
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=646CFF" />
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+  <img src="https://img.shields.io/badge/React Router DOM-000000?style=for-the-badge&logo=react-router" />
 </p>
 
 ---
