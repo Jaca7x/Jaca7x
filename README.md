@@ -46,7 +46,7 @@ Sou apaixonado por desenvolver ideias e criar jogos. Busco sempre entregar uma Ã
   <a href="https://www.linkedin.com/in/miguel-ed-costa/">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0077B5" />
   </a>
-  <a href="miguel7cos@gmail.com">
+  <a href="mailto:miguel7cos@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836" />
   </a>
 </div>
