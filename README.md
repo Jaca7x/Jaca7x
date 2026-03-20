@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=150&lines=+++++++++++++JACA;GAME+DEVELOPER+|+FULL+STACK+STUDENT" alt="Banner Jaca" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=150&lines=+++++++++++++MIGUEL+COSTA;GAME+DEVELOPER+|+FULL+STACK+STUDENT" alt="Banner Jaca" />
 </div>
 
 ## 👤 Sobre mim
