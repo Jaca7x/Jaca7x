@@ -11,8 +11,6 @@ Sou apaixonado por desenvolver ideias e criar jogos. Busco sempre entregar uma �
 ## 🚀 Tecnologias (Core)
 <p align="left">
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=A8B9CC" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css&logoColor=1572B6" />
 </p>
 
 ## 🎮 Game Dev & Libraries
