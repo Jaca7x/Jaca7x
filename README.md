@@ -33,8 +33,8 @@ Sou apaixonado por desenvolver ideias e criar jogos. Busco sempre entregar uma �
 
 ## 📊 Estatísticas
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jaca7x&show_icons=true&theme=dark&bg_color=000&title_color=fff&text_color=9f9f9f&icon_color=fff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaca7x&layout=compact&theme=dark&bg_color=000&title_color=fff&text_color=9f9f9f" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jaca7x&show_icons=true&bg_color=000000&title_color=ffffff&text_color=9f9f9f&icon_color=ffffff&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaca7x&layout=compact&bg_color=000000&title_color=ffffff&text_color=9f9f9f&cache_seconds=1800" />
 </div>
 
 ---
